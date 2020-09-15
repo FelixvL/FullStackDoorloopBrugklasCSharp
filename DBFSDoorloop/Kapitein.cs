@@ -11,8 +11,11 @@ namespace DBFSDoorloop
     {
         [Key]
         public int KapiteinId { get; set; }
+        [Required]
         public string Naam { get; set; }
         public int Leeftijd { get; set; }
         public int AlcoholPercentage { get; set; }
+        public int SchipId { get; set; }
+
     }
 }

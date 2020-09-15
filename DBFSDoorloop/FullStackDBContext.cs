@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace DBFSDoorloop
 {
-    class FullStackDBContext : DbContext
+    public class FullStackDBContext : DbContext
     {
+        public FullStackDBContext() {
+            Database.SetInitializer<FullStackDBContext>(null);
+        }
         public DbSet<Kapitein> Kapiteins { get; set; }
     }
 }

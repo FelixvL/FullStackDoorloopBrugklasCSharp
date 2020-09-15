@@ -1,0 +1,42 @@
+﻿@model DBFSDoorloop.Kapitein
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Kapitein</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Naam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Leeftijd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Leeftijd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AlcoholPercentage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlcoholPercentage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.KapiteinId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

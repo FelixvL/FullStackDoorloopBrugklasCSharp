@@ -78,3 +78,5 @@ C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBru
 C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBrugKlas\bin\DBFSDoorloop.pdb
 C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBrugKlas\bin\DBFSDoorloop.dll.config
 C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBrugKlas\bin\EntityFramework.xml
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBrugKlas\bin\EntityFramework.SqlServer.dll
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\FullStackDoorloopBrugKlas\bin\EntityFramework.SqlServer.xml
