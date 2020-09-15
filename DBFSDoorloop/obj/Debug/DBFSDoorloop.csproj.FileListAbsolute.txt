@@ -1,0 +1,11 @@
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\DBFSDoorloop.dll.config
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\DBFSDoorloop.dll
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\DBFSDoorloop.pdb
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\EntityFramework.dll
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\EntityFramework.xml
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\obj\Debug\DBFSDoorloop.csprojAssemblyReference.cache
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\obj\Debug\DBFSDoorloop.csproj.CopyComplete
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\obj\Debug\DBFSDoorloop.dll
+C:\Users\NextProgram\source\repos\FullStackDoorloopBrugKlas\DBFSDoorloop\obj\Debug\DBFSDoorloop.pdb
